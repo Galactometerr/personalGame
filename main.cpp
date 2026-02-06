@@ -15,8 +15,6 @@ int main() {
         // <shortcut actionId="ToggleLineBreakpoint"/>.
         std::cout << "i = " << i << std::endl;
     }
-
-    return 0;
 }
 
 // TIP See CLion help at <a
